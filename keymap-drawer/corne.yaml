@@ -1,7 +1,7 @@
 layout: {qmk_keyboard: corne_rotated, qmk_layout: LAYOUT_split_3x6_3}
 layers:
   BASE:
-  - {t: ▽, type: trans}
+  - ESC
   - Q
   - W
   - E
@@ -12,8 +12,8 @@ layers:
   - I
   - O
   - P
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '1'
+  - TAB
   - {t: A, h: LEFT CONTROL}
   - {t: S, h: LEFT ALT}
   - {t: D, h: LEFT COMMAND}
@@ -24,8 +24,8 @@ layers:
   - {t: K, h: RIGHT COMMAND}
   - L
   - ;
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '2'
+  - LEFT SHIFT
   - Z
   - X
   - C
@@ -36,11 +36,11 @@ layers:
   - ','
   - .
   - /
-  - {t: ▽, type: trans}
+  - '3'
   - DANGER
   - NUMS
-  - ENTER
   - SPACE
+  - ENTER
   - BACKSPACE
   - DANGER
   NUMS:
@@ -97,19 +97,19 @@ layers:
   - F7
   - F8
   - F9
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - F10
+  - F11
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - MUTE
   - PREVIOUS
   - NEXT
   - PLAY PAUSE
-  - LEFT
-  - DOWN
-  - UP
-  - RIGHT
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - UP ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: BT, h: '0'}
@@ -120,9 +120,9 @@ layers:
   - {t: ▽, type: trans}
   - VOLUME DOWN
   - VOLUME UP
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LEFT
+  - DOWN
+  - RIGHT
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
