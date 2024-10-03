@@ -12,7 +12,7 @@ layers:
   - I
   - O
   - P
-  - '1'
+  - DELETE
   - TAB
   - {t: A, h: LEFT CONTROL}
   - {t: S, h: LEFT ALT}
@@ -24,7 +24,7 @@ layers:
   - {t: K, h: RIGHT COMMAND}
   - L
   - ;
-  - '2'
+  - SCREENSAVER
   - LEFT SHIFT
   - Z
   - X
@@ -36,7 +36,7 @@ layers:
   - ','
   - .
   - /
-  - '3'
+  - PRINTSCREEN
   - DANGER
   - NUMS
   - SPACE
