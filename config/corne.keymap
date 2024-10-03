@@ -51,6 +51,7 @@
         undo {
             bindings = <&kp LG(Z)>;
             key-positions = <25 26>;
+            slow-release;
         };
 
         quote {
