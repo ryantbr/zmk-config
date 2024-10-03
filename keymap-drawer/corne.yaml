@@ -135,17 +135,15 @@ combos:
   k: TAB
 - p: [33, 34]
   k: '`'
-- p: [1, 2]
-  k: ESCAPE
 - p: [25, 26]
-  k: Gui+ Z
+  k: Ctl+ Z
 - p: [22, 21]
   k: ''''
 - p: [26, 27]
-  k: Gui+ X
+  k: Ctl+ X
 - p: [27, 28]
-  k: Gui+ C
+  k: Ctl+ C
 - p: [28, 29]
-  k: Gui+ V
+  k: Ctl+ V
 - p: [17, 18]
   k: ESCAPE

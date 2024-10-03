@@ -43,13 +43,8 @@
             key-positions = <33 34>;
         };
 
-        escapeleft {
-            bindings = <&kp ESCAPE>;
-            key-positions = <1 2>;
-        };
-
         undo {
-            bindings = <&kp LG(Z)>;
+            bindings = <&kp LC(Z)>;
             key-positions = <25 26>;
             slow-release;
         };
@@ -60,19 +55,19 @@
         };
 
         cut {
-            bindings = <&kp LG(X)>;
+            bindings = <&kp LC(X)>;
             key-positions = <26 27>;
             slow-release;
         };
 
         copy {
-            bindings = <&kp LG(C)>;
+            bindings = <&kp LC(C)>;
             key-positions = <27 28>;
             slow-release;
         };
 
         paste {
-            bindings = <&kp LG(V)>;
+            bindings = <&kp LC(V)>;
             key-positions = <28 29>;
             slow-release;
         };
