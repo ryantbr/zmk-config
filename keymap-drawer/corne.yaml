@@ -22,7 +22,7 @@ layers:
   - H
   - {t: J, h: LEFT SHIFT}
   - {t: K, h: RIGHT COMMAND}
-  - L
+  - {t: L, h: RCTRL}
   - ;
   - SCREENSAVER
   - LEFT SHIFT
