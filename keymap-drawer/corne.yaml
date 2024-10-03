@@ -24,7 +24,7 @@ layers:
   - {t: K, h: RIGHT COMMAND}
   - {t: L, h: RCTRL}
   - ;
-  - SCREENSAVER
+  - ''''
   - LEFT SHIFT
   - Z
   - X
