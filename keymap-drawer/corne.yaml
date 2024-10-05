@@ -136,14 +136,14 @@ combos:
 - p: [33, 34]
   k: '`'
 - p: [25, 26]
-  k: Ctl+ Z
+  k: Gui+ Z
 - p: [22, 21]
   k: ''''
 - p: [26, 27]
-  k: Ctl+ X
+  k: Gui+ X
 - p: [27, 28]
-  k: Ctl+ C
+  k: Gui+ C
 - p: [28, 29]
-  k: Ctl+ V
+  k: Gui+ V
 - p: [17, 18]
   k: ESCAPE

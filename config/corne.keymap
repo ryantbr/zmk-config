@@ -44,7 +44,7 @@
         };
 
         undo {
-            bindings = <&kp LC(Z)>;
+            bindings = <&kp LG(Z)>;
             key-positions = <25 26>;
             slow-release;
         };
@@ -55,19 +55,19 @@
         };
 
         cut {
-            bindings = <&kp LC(X)>;
+            bindings = <&kp LG(X)>;
             key-positions = <26 27>;
             slow-release;
         };
 
         copy {
-            bindings = <&kp LC(C)>;
+            bindings = <&kp LG(C)>;
             key-positions = <27 28>;
             slow-release;
         };
 
         paste {
-            bindings = <&kp LC(V)>;
+            bindings = <&kp LG(V)>;
             key-positions = <28 29>;
             slow-release;
         };
