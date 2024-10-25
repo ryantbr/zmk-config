@@ -33,12 +33,12 @@ layers:
   - .
   - /
   - ''''
-  - danger
+  - DELETE
   - nums
   - SPACE
   - RET
   - BACKSPACE
-  - DELETE
+  - danger
   nums:
   - '!'
   - '@'
@@ -111,12 +111,12 @@ layers:
   - LEFT
   - DOWN
   - RIGHT
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
 combos:
 - p: [0, 1]
   k: ESC
