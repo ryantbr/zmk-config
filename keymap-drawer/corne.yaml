@@ -22,8 +22,8 @@ layers:
   - H
   - {t: J, h: LEFT SHIFT}
   - {t: K, h: RIGHT COMMAND}
-  - {t: L, h: RCTRL}
-  - ;
+  - {t: L, h: RIGHT ALT}
+  - {t: ;, h: RIGHT SHIFT}
   - ''''
   - LEFT SHIFT
   - Z
