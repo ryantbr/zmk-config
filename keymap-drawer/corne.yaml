@@ -129,10 +129,6 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
 combos:
-- p: [31, 32]
-  k: ESCAPE
-- p: [32, 33]
-  k: TAB
 - p: [33, 34]
   k: '`'
 - p: [25, 26]

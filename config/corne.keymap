@@ -28,16 +28,6 @@
     combos {
         compatible = "zmk,combos";
 
-        escape {
-            bindings = <&kp ESCAPE>;
-            key-positions = <31 32>;
-        };
-
-        tab {
-            bindings = <&kp TAB>;
-            key-positions = <32 33>;
-        };
-
         grave {
             bindings = <&kp GRAVE>;
             key-positions = <33 34>;
